@@ -4,6 +4,7 @@ bbolt
 [![Go Report Card](https://goreportcard.com/badge/github.com/coreos/bbolt?style=flat-square)](https://goreportcard.com/report/github.com/coreos/bbolt)
 [![Coverage](https://codecov.io/gh/coreos/bbolt/branch/master/graph/badge.svg)](https://codecov.io/gh/coreos/bbolt)
 [![Godoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/coreos/bbolt)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fbbolt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fbbolt?ref=badge_shield)
 
 bbolt is a fork of [Ben Johnson's][gh_ben] [Bolt][bolt] key/value
 store. The purpose of this fork is to provide the Go community with an active
@@ -926,3 +927,7 @@ Below is a list of public, open source projects that use Bolt:
 * [BoltHold](https://github.com/timshannon/bolthold) - An embeddable NoSQL store for Go types built on BoltDB
 
 If you are using Bolt in a project please send a pull request to add it to the list.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fbbolt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fbbolt?ref=badge_large)
